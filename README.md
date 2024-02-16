@@ -1,17 +1,18 @@
-# PROJECTNAME
+# FORENSICS WITH NMAP
 
 ## Objective
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The goal of this project is to perform digital forensic investigations by utilizing the capabilities of NMAP, a potent network scanning tool. This project aims to scan network, identify potential security breaches, and gather essential evidence for forensic analysis by employing NMAP's wide feature set for network discovery, and vulnerability identification. I gained practical skills for investigating cyber incidents, improve my comprehension of network forensics principles, and become proficient in utilizing NMAP as a forensic tool through hands-on experimentation.
 
 ### Skills Learned
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Network Scanning and Mapping: I gained expertise in conducting thorough network scans, deciphering network topology, locating active hosts, and locating open ports and services using NMAP.
+
+- Vulnerability Detection: I gained the ability to recognize potential vulnerabilities in networked systems, such as incorrectly configured services, out-of-date software, and security flaws, by analyzing the results of NMAP scans.
+
+- Forensics Analysis: Using NMAP as a forensic tool to collect evidence of network activity, examine network traffic patterns, and spot unusual behavior suggestive of security breaches or illegal access is one of the skills I have acquired.
+
 
 ### Tools Used
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
+- NMAP
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
