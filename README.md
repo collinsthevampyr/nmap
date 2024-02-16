@@ -13,17 +13,10 @@ The goal of this project is to perform digital forensic investigations by utiliz
 
 ### Tools Used
 - NMAP
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Steps
-Drop and drag screenshots or use Imgur and reference them using imgsrc
+![Screenshot_2024-02-09_14-46-29](https://github.com/collinsthevampyr/nmap/assets/121796029/6bce4f66-6f25-4cfc-8631-1ee4fcd42f4e)
 
-Each screenshot should have explanatory text.
+![Screenshot_2024-02-09_14-47-44](https://github.com/collinsthevampyr/nmap/assets/121796029/e11986ac-9a71-405e-bdc1-f7b7a222ae37)
 
-Example:
-- ![Network Diagram](link_to_image) *Ref 1: Network Diagram*
-- ![SIEM Dashboard](link_to_image) *Ref 2: SIEM Dashboard*
--
-- ![632afb377fde1_benjaminmaincase](https://github.com/collinsthevampyr/nmap/assets/121796029/85ad1cf1-f613-4cd9-b280-ec59de43748f)
-
+![Screenshot_2024-02-09_14-50-21](https://github.com/collinsthevampyr/nmap/assets/121796029/b7ee8301-137d-4b2d-8da9-2f12c484fb52)
