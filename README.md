@@ -23,3 +23,6 @@ Each screenshot should have explanatory text.
 Example:
 - ![Network Diagram](link_to_image) *Ref 1: Network Diagram*
 - ![SIEM Dashboard](link_to_image) *Ref 2: SIEM Dashboard*
+-
+- ![632afb377fde1_benjaminmaincase](https://github.com/collinsthevampyr/nmap/assets/121796029/85ad1cf1-f613-4cd9-b280-ec59de43748f)
+
